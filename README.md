@@ -2,7 +2,7 @@
 This repo contains the “Code & Data” of the paper “A Comparison of Human and Machine Learning Errors in Face Recognition”.
 
 ## License
-This data and code is released under the MIT License. Please, consider consulting the licenses of the dataset [DemogPairs](https://ihupont.github.io/publications/2019-05-16-demogpairs) and the models [IR50](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (available in [face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe)) and [LightCNN](https://ieeexplore.ieee.org/abstract/document/8353856).
+This data and code is released under the GPL License. Please, consider consulting the licenses of the dataset [DemogPairs](https://ihupont.github.io/publications/2019-05-16-demogpairs) and the models [IR50](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) (available in [face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe)) and [LightCNN](https://ieeexplore.ieee.org/abstract/document/8353856).
 
 ****
 
